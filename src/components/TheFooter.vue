@@ -1,5 +1,5 @@
 <template>
-    <footer>
+    <footer class="mt-40">
       <div class="bg-[#139DEB] flex mt-20 pl-20 pr-20 font-['Gilroy-Medium']">
           <div class="text-white top-60 left-16 mt-28 font-['Gilroy-Regular']">
               <p class="text-white leading-5">Скачайте наше <br> мобильное приложение</p>

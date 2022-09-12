@@ -1,0 +1,372 @@
+{
+  "Новинки": [
+    {
+      "name": "Сок натуральный 100% с мякотью Яблоко-Персик “Сады Придонья”",
+      "new": true,
+      "sale": false,
+      "percent": "0",
+      "hit": false,
+      "basket": false,
+      "oldPrice": "1 700₸",
+      "img": "img/juice.png",
+      "characteristics": {
+        "volume_name": "Литраж",
+        "volume": "2 л.",
+        "box_name": "В ящике",
+        "box": "6 шт.",
+        "cost_name": "Цена",
+        "cost": "1 200₸"
+      }
+    },
+    {
+      "name": "Напиток энергетический Gorilla",
+      "new": true,
+      "sale": false,
+      "percent": "0",
+      "hit": false,
+      "basket": false,
+      "oldPrice": "0",
+      "img": "img/gorilla.png",
+      "characteristics": {
+        "volume_name": "Литраж",
+        "volume": "0.5 л.",
+        "box_name": "В ящике",
+        "box": "24 шт.",
+        "cost_name": "Цена",
+        "cost": "9 600₸"
+      }
+    },
+    {
+      "name": "Напиток Coca-Cola",
+      "new": true,
+      "sale": true,
+      "percent": "-10",
+      "hit": false,
+      "basket": true,
+      "oldPrice": "6 000₸",
+      "img": "img/cola.png",
+      "characteristics": {
+        "volume_name": "Литраж",
+        "volume": "0.5 л.",
+        "box_name": "В ящике",
+        "box": "24 шт.",
+        "cost_name": "Цена",
+        "cost": "5 400₸"
+      }
+    },
+    {
+      "name": "Напиток энергетический Gorilla",
+      "new": true,
+      "sale": false,
+      "percent": "0",
+      "hit": false,
+      "basket": true,
+      "oldPrice": "0",
+      "img": "img/gorilla.png",
+      "characteristics": {
+        "volume_name": "Литраж",
+        "volume": "0.5 л.",
+        "box_name": "В ящике",
+        "box": "16 шт.",
+        "cost_name": "Цена",
+        "cost": "6 400₸"
+      }
+    }
+  ],
+  "Для новогоднего стола": [
+    {
+      "name": "Скумбрия Семь Морей холодного копчения",
+      "new": false,
+      "sale": true,
+      "percent": "-20",
+      "hit": false,
+      "basket": false,
+      "oldPrice": "19 200₸",
+      "img": "img/fish.png",
+      "characteristics": {
+        "volume_name": "Вес",
+        "volume": "1 кг.",
+        "box_name": "В ящике",
+        "box": "32 шт.",
+        "cost_name": "Цена",
+        "cost": "15 360₸"
+      }
+    },
+    {
+      "name": "Утка пекинская тушка замороженная",
+      "new": true,
+      "sale": false,
+      "percent": "0",
+      "hit": false,
+      "basket": false,
+      "oldPrice": "0",
+      "img": "img/chicken.png",
+      "characteristics": {
+        "volume_name": "Вес",
+        "volume": "1 кг.",
+        "box_name": "В ящике",
+        "box": "4 шт.",
+        "cost_name": "Цена",
+        "cost": "4 800₸"
+      }
+    },
+    {
+      "name": "Семга стейк замороженный",
+      "new": false,
+      "sale": false,
+      "percent": "0",
+      "hit": false,
+      "basket": true,
+      "oldPrice": "0",
+      "img": "img/fishStake.png",
+      "characteristics": {
+        "volume_name": "Вес",
+        "volume": "1 кг.",
+        "box_name": "В ящике",
+        "box": "3 шт.",
+        "cost_name": "Цена",
+        "cost": "4 800₸"
+      }
+    },
+    {
+      "name": "Ребра говяжьи замороженные",
+      "new": false,
+      "sale": true,
+      "percent": "-10",
+      "hit": false,
+      "basket": false,
+      "oldPrice": "10 000",
+      "img": "img/beef.png",
+      "characteristics": {
+        "volume_name": "Вес",
+        "volume": "1 кг.",
+        "box_name": "В ящике",
+        "box": "2 шт.",
+        "cost_name": "Цена",
+        "cost": "9 000₸"
+      }
+    }
+  ],
+  "Акция": [
+    {
+      "name": "Сок натуральный 100% с мякотью Яблоко-Персик “Сады Придонья”",
+      "new": true,
+      "sale": true,
+      "percent": "-15",
+      "hit": false,
+      "basket": false,
+      "oldPrice": "2 550₸",
+      "img": "img/juice.png",
+      "characteristics": {
+        "volume_name": "Литраж",
+        "volume": "2 л.",
+        "box_name": "В ящике",
+        "box": "6 шт.",
+        "cost_name": "Цена",
+        "cost": "2 170₸"
+      }
+    },
+    {
+      "name": "Напиток Coca-Cola",
+      "new": false,
+      "sale": true,
+      "percent": "-10",
+      "hit": true,
+      "basket": false,
+      "oldPrice": "6 000₸",
+      "img": "img/cola.png",
+      "characteristics": {
+        "volume_name": "Литраж",
+        "volume": "0.5 л.",
+        "box_name": "В ящике",
+        "box": "24 шт.",
+        "cost_name": "Цена",
+        "cost": "5 400₸"
+      }
+    },
+    {
+      "name": "Напиток энергетический Gorilla",
+      "new": false,
+      "sale": true,
+      "percent": "0",
+      "hit": false,
+      "basket": false,
+      "oldPrice": "0",
+      "img": "img/gorilla.png",
+      "characteristics": {
+        "volume_name": "Литраж",
+        "volume": "0.5 л.",
+        "box_name": "В ящике",
+        "box": "24 шт.",
+        "cost_name": "Цена",
+        "cost": "9 600₸"
+      }
+    },
+    {
+      "name": "Батончик Snickers",
+      "new": false,
+      "sale": true,
+      "percent": "-10",
+      "hit": true,
+      "basket": false,
+      "oldPrice": "7 200₸",
+      "img": "img/snickers.png",
+      "characteristics": {
+        "volume_name": "Вес",
+        "volume": "50 гр.",
+        "box_name": "В ящике",
+        "box": "24 шт.",
+        "cost_name": "Цена",
+        "cost": "6 480₸"
+      }
+    }
+  ],
+  "Напитки к новогоднему столу": [
+    {
+      "name": "Водка “Ағашка” Застольная",
+      "new": false,
+      "sale": true,
+      "percent": "-30",
+      "hit": false,
+      "basket": false,
+      "oldPrice": "7 500₸",
+      "img": "img/vodka.png",
+      "characteristics": {
+        "volume_name": "Литраж",
+        "volume": "1 л.",
+        "box_name": "В ящике",
+        "box": "6 шт.",
+        "cost_name": "Цена",
+        "cost": "5 250₸"
+      }
+    },
+    {
+      "name": "Шампанское Российское полусладкое",
+      "new": false,
+      "sale": false,
+      "percent": "0",
+      "hit": false,
+      "basket": false,
+      "oldPrice": "0",
+      "img": "img/champagne.png",
+      "characteristics": {
+        "volume_name": "Литраж",
+        "volume": "0.75 л.",
+        "box_name": "В ящике",
+        "box": "6 шт.",
+        "cost_name": "Цена",
+        "cost": "15 000₸"
+      }
+    },
+    {
+      "name": "Шампанское Lanson Black Label Brut",
+      "new": false,
+      "sale": true,
+      "percent": "-10",
+      "hit": false,
+      "basket": false,
+      "oldPrice": "30 000₸",
+      "img": "img/champagneLanson.png",
+      "characteristics": {
+        "volume_name": "Литраж",
+        "volume": "0.75 л.",
+        "box_name": "В ящике",
+        "box": "6 шт.",
+        "cost_name": "Цена",
+        "cost": "27 000₸"
+      }
+    },
+    {
+      "name": "Напиток Coca-Cola",
+      "new": false,
+      "sale": false,
+      "percent": "0",
+      "hit": false,
+      "basket": false,
+      "oldPrice": "0",
+      "img": "img/cola.png",
+      "characteristics": {
+        "volume_name": "Литраж",
+        "volume": "0.5 л.",
+        "box_name": "В ящике",
+        "box": "24 шт.",
+        "cost_name": "Цена",
+        "cost": "6 000₸"
+      }
+    }
+  ],
+  "Хиты продаж": [
+    {
+      "name": "Напиток Coca-Cola",
+      "new": false,
+      "sale": true,
+      "percent": "0",
+      "hit": true,
+      "basket": false,
+      "oldPrice": "6 000₸",
+      "img": "img/cola.png",
+      "characteristics": {
+        "volume_name": "Литраж",
+        "volume": "0.5 л.",
+        "box_name": "В ящике",
+        "box": "24 шт.",
+        "cost_name": "Цена",
+        "cost": "5 600₸"
+      }
+    },
+    {
+      "name": "Батончик Snickers",
+      "new": false,
+      "sale": false,
+      "percent": "0",
+      "hit": true,
+      "basket": false,
+      "oldPrice": "0",
+      "img": "img/snickers.png",
+      "characteristics": {
+        "volume_name": "Вес",
+        "volume": "50гр.",
+        "box_name": "В ящике",
+        "box": "24 шт.",
+        "cost_name": "Цена",
+        "cost": "7 200₸"
+      }
+    },
+    {
+      "name": "Сок натуральный 100% с мякотью Яблоко-Персик “Сады Придонья”",
+      "new": false,
+      "sale": true,
+      "percent": "0",
+      "hit": true,
+      "basket": false,
+      "oldPrice": "2 940₸",
+      "img": "img/juice.png",
+      "characteristics": {
+        "volume_name": "Литраж",
+        "volume": "2 л.",
+        "box_name": "В ящике",
+        "box": "6 шт.",
+        "cost_name": "Цена",
+        "cost": "2 058₸"
+      }
+    },
+    {
+      "name": "Батончик Snickers",
+      "new": false,
+      "sale": false,
+      "percent": "0",
+      "hit": true,
+      "basket": false,
+      "oldPrice": "0",
+      "img": "img/snickers.png",
+      "characteristics": {
+        "volume_name": "Вес",
+        "volume": "50 гр.",
+        "box_name": "В ящике",
+        "box": "24 шт.",
+        "cost_name": "Цена",
+        "cost": "9 600₸"
+      }
+    }
+  ]
+}
